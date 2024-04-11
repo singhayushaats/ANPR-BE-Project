@@ -1,0 +1,6 @@
+train: C:\Users\Astha Singh\Automatic-Number-Plate-Recognition--ANPR--main\dataset\train\images
+val: C:\Users\Astha Singh\Automatic-Number-Plate-Recognition--ANPR--main\dataset\valid\images
+test: C:\Users\Astha Singh\Automatic-Number-Plate-Recognition--ANPR--main\dataset\test\images
+
+nc: 1
+names: ['licence']
